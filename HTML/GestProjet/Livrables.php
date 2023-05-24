@@ -1,4 +1,4 @@
-<?php $pageTitle = "Emotionnelle"; ?>
+<?php $pageTitle = "Livrables" ?>
 
 <?php require_once './includes/head.php'; ?>
 

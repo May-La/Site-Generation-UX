@@ -1,19 +1,6 @@
-<?php 
-    require_once "../include/functions.php";
-
-    if(isset($_SESSION['login']))
-    {
-    $stmt = getDb() -> prepare("SELECT ID_Utilisateur FROM utilisateur WHERE Email = ?");
-    $stmt ->execute(array($_SESSION['login']));
-    $id = $stmt -> fetch();
-    $idUtilisateur = $id['ID_Utilisateur'];
-    }
-    
-?>
-
 <nav class="navbar navbar-expand-lg navbar-light " style="background-color:#CBC3E3;">
-        <a class="navbar-brand" href="../PHP/Bienvenue.php">
-            <img src="../IMG/LogoAvecTexte.png" width="" height="50" class="d-inline-block align-top" alt="Poulpy Recherche Melody">
+        <a class="navbar-brand" href="../HTML/Accueil.php">
+            <img src="../IMG/LogoAvecTexte.png" width="" height="50" class="d-inline-block align-top" alt="Génération UX">
 
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
@@ -24,41 +11,35 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item active">
-                    <a class="nav-link" href="../PHP/Annonces.php">Annonces <span class="sr-only">(current)</span></a>
-                </li>
-                <li class="nav-item active">
-                    <a class="nav-link" href="../PHP/Recherches.php">Recherches Avancées <span class="sr-only">(current)</span></a>
-                </li>
-                <li class="nav-item active">
-                    <?php
-                        if(isset($_SESSION['login']))
-                        {
-                            echo '<a class="nav-link" href="../PHP/FormulaireAnnonce.php">Ajouter une annonce <span class="sr-only">(current)</span></a>';
-                        }
-                    ?>
+                    <a class="nav-link" href="../HTML/GestProjet/GestProj.php"> Gestion de projet <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
                         data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        Profil
+                        Etat de l'art
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <?php
-                            if(isset($_SESSION['login']))
-                            {
-                        ?> 
-                                <a class="dropdown-item" href="../PHP/Deconnexion.php">Se déconnecter</a>
-                                <a class="dropdown-item" href="../PHP/Profil.php?id=<?= $idUtilisateur ?>">Mon profil</a>
-                        <?php
-                            }
-                            else
-                            {
-                        ?>
-                                <a class="dropdown-item" href="../PHP/Connexion.php">Se connecter</a>
-                                <a class="dropdown-item" href="../PHP/Inscription.php">S'inscrire</a>
-                        <?php
-                            }
-                        ?>
+                            <a class="dropdown-item" href="../HTML/EDLA/EDLA.php">Etat de l'art général</a>
+                            <a class="dropdown-item" href="../HTML/EDLA/Emotionnelle.php">Domaine émotionnel</a>
+                            <a class="dropdown-item" href="../HTML/EDLA/Utilisabilite.php">Domaine Utilisabilité</a>
+                            <a class="dropdown-item" href="../HTML/EDLA/UX.php">Domaine UX</a>
+                            <a class="dropdown-item" href="../HTML/EDLA/ValidationSuite.php">Processus d'adaptation et de validation d'une échelle</a>
+                            <a class="dropdown-item" href="../HTML/EDLA/Echelles.php">Echelles retenues pour l'adaptation</a>
+                            <a class="dropdown-item" href="../HTML/EDLA/Sources.php">Sources de l'état de l'art</a>
+                    </div>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+                        data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Adaptation de l'échelle MeCue
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item" href="../HTML/Adaptation/Adaptations.php">Versions de l'adaptation</a>
+                            <a class="dropdown-item" href="../HTML/Adaptation/ProcessAdaptation.php">Processus d'adaptation</a>
+                            <a class="dropdown-item" href="../HTML/Adaptation/DetailsTest.php">Déroulement des tests</a>
+                            <a class="dropdown-item" href="../HTML/Adaptation/Protocole.php">Protocole de tests</a>
+                            <a class="dropdown-item" href="../HTML/Adaptation/Enseignants.php">Questionnaire pour les enseignants</a>
+                            <a class="dropdown-item" href="../HTML/Adaptation/ResultatsAnalyse.php">Résultats et analyse</a>
                     </div>
                 </li>
             </ul>
