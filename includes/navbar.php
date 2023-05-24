@@ -1,5 +1,5 @@
 <nav class="navbar navbar-expand-lg navbar-light " style="background-color:#CBC3E3;">
-        <a class="navbar-brand" href="../HTML/Accueil.php">
+        <a class="navbar-brand" href="../Accueil.php">
             <img src="../IMG/LogoAvecTexte.png" width="" height="50" class="d-inline-block align-top" alt="Génération UX">
 
         </a>
@@ -11,7 +11,7 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item active">
-                    <a class="nav-link" href="../HTML/GestProjet/GestProj.php"> Gestion de projet <span class="sr-only">(current)</span></a>
+                    <a class="nav-link" href="../GestProjet/GestProj.php"> Gestion de projet <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
@@ -19,13 +19,13 @@
                         Etat de l'art
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <a class="dropdown-item" href="../HTML/EDLA/EDLA.php">Etat de l'art général</a>
-                            <a class="dropdown-item" href="../HTML/EDLA/Emotionnelle.php">Domaine émotionnel</a>
-                            <a class="dropdown-item" href="../HTML/EDLA/Utilisabilite.php">Domaine Utilisabilité</a>
-                            <a class="dropdown-item" href="../HTML/EDLA/UX.php">Domaine UX</a>
-                            <a class="dropdown-item" href="../HTML/EDLA/ValidationSuite.php">Processus d'adaptation et de validation d'une échelle</a>
-                            <a class="dropdown-item" href="../HTML/EDLA/Echelles.php">Echelles retenues pour l'adaptation</a>
-                            <a class="dropdown-item" href="../HTML/EDLA/Sources.php">Sources de l'état de l'art</a>
+                            <a class="dropdown-item" href="../EDLA/EDLA.php">Etat de l'art général</a>
+                            <a class="dropdown-item" href="../EDLA/Emotionnelle.php">Domaine émotionnel</a>
+                            <a class="dropdown-item" href="../EDLA/Utilisabilite.php">Domaine Utilisabilité</a>
+                            <a class="dropdown-item" href="../EDLA/UX.php">Domaine UX</a>
+                            <a class="dropdown-item" href="../EDLA/ValidationSuite.php">Processus d'adaptation et de validation d'une échelle</a>
+                            <a class="dropdown-item" href="../EDLA/Echelles.php">Echelles retenues pour l'adaptation</a>
+                            <a class="dropdown-item" href="../EDLA/Sources.php">Sources de l'état de l'art</a>
                     </div>
                 </li>
                 <li class="nav-item dropdown">
@@ -34,12 +34,12 @@
                         Adaptation de l'échelle MeCue
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <a class="dropdown-item" href="../HTML/Adaptation/Adaptations.php">Versions de l'adaptation</a>
-                            <a class="dropdown-item" href="../HTML/Adaptation/ProcessAdaptation.php">Processus d'adaptation</a>
-                            <a class="dropdown-item" href="../HTML/Adaptation/DetailsTest.php">Déroulement des tests</a>
-                            <a class="dropdown-item" href="../HTML/Adaptation/Protocole.php">Protocole de tests</a>
-                            <a class="dropdown-item" href="../HTML/Adaptation/Enseignants.php">Questionnaire pour les enseignants</a>
-                            <a class="dropdown-item" href="../HTML/Adaptation/ResultatsAnalyse.php">Résultats et analyse</a>
+                            <a class="dropdown-item" href="../Adaptation/Adaptations.php">Versions de l'adaptation</a>
+                            <a class="dropdown-item" href="../Adaptation/ProcessAdaptation.php">Processus d'adaptation</a>
+                            <a class="dropdown-item" href="../Adaptation/DetailsTest.php">Déroulement des tests</a>
+                            <a class="dropdown-item" href="../Adaptation/Protocole.php">Protocole de tests</a>
+                            <a class="dropdown-item" href="../Adaptation/Enseignants.php">Questionnaire pour les enseignants</a>
+                            <a class="dropdown-item" href="../Adaptation/ResultatsAnalyse.php">Résultats et analyse</a>
                     </div>
                 </li>
             </ul>
