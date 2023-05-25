@@ -2,12 +2,38 @@ body {
     display: flex;
     flex-direction: column;
     /* background-color: #f5f2ff !important; */
-
 }
 
-H2{
 
-    text-justify: center; 
+p {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+H2 {
+    text-justify: center;
+    text-align: center;
+}
+
+.Logo {
+    width: 50%;
+    align-self: center;
+}
+
+.middle {
+    text-align: center;
+}
+
+.Nous {
+    width: 50%;
+    align-self: center;
+}
+
+.vert {
+    display: flex;
+    flex-direction: column;
+    background-color: #355E3B;
+    color: white;
 }
 
 .navbar {
@@ -15,29 +41,28 @@ H2{
     border-bottom-right-radius: 15px;
     align-self: flex-start;
     width: 100%;
+}
+
+.Profil {
+    padding-left: 10%;
+    padding-top: 5%;
+    display: flex;
+    flex-direction: row;
 
 }
 
-.Profil{
-    padding-left: 10%; 
-    padding-top:  5%;  
-    display: flex; 
-    flex-direction: row; 
-    
+.NomProfil {
+    width: 50%;
+    padding: 2%;
+
 }
 
-.NomProfil{
-    width : 50%; 
-    padding: 2%; 
-    
-}
-
-.Ajouter{
+.Ajouter {
     background-color: #CBC3E3;
-    color: rebeccapurple; 
-    width: 80%;  
-    border-radius: 15px; 
-    text-align: center; 
+    color: rebeccapurple;
+    width: 80%;
+    border-radius: 15px;
+    text-align: center;
 }
 
 button[type=submit] {
@@ -76,18 +101,19 @@ button[type=submit]:hover {
 }
 
 .carousel ol {
-  
+
     padding-left: 10%;
     padding-right: 50%;
 }
 
-.moto{
-    position : absolute; 
+.moto {
+    position: absolute;
     left: 55%;
-    right: 5%; 
-    width: 40%; 
-    top: 200px; ; 
-   
+    right: 5%;
+    width: 40%;
+    top: 200px;
+    ;
+
 
 }
 
@@ -101,8 +127,8 @@ button[type=submit]:hover {
     background-color: #a49ef6 !important;
     position: relative;
     width: 100%;
-display: flex; 
-flex-direction: column ; 
+    display: flex;
+    flex-direction: column;
 
 
 }
@@ -112,23 +138,24 @@ flex-direction: column ;
 .retour {
     position: relative;
     top: 25%;
-    align-self :center;
+    align-self: center;
     width: 30%;
     background-color: #a49ef6 !important;
     padding: 2%;
-    border-radius :15px;
-    text-align : center; 
-    -webkit-box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.26); 
-box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.26);
+    border-radius: 15px;
+    text-align: center;
+    -webkit-box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.26);
+    box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.26);
 }
 
-.acces, .Nom  {
-    color: rebeccapurple ; 
+.acces,
+.Nom {
+    color: rebeccapurple;
 }
 
 
 
-.card  {
+.card {
     position: relative;
     top: 2%;
     align-self: center;
@@ -136,12 +163,12 @@ box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.26);
     background-color: #a49ef6 !important;
     padding: 2%;
     display: flex;
-    margin-bottom : 2%; 
-    border-color : #a49ef6 !important;
-    flex-direction: row; 
+    margin-bottom: 2%;
+    border-color: #a49ef6 !important;
+    flex-direction: row;
 }
-   
-.UneAnnonce{
+
+.UneAnnonce {
     position: relative;
     top: 2%;
     align-self: center;
@@ -149,14 +176,14 @@ box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.26);
     background-color: #a49ef6 !important;
     padding: 2%;
     display: flex;
-    margin-bottom : 2%; 
-    border-color : #a49ef6 !important;
-    flex-direction: row; 
-    border-radius: 20px; 
+    margin-bottom: 2%;
+    border-color: #a49ef6 !important;
+    flex-direction: row;
+    border-radius: 20px;
 }
 
 
-.AnnonceClaire{
+.AnnonceClaire {
     position: relative;
     top: 2%;
     align-self: center;
@@ -164,11 +191,12 @@ box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.26);
     background-color: #F5F2FF !important;
     padding: 2%;
     display: flex;
-    margin-bottom : 2%; 
-    border-color : #F5F2FF !important;
-    flex-direction: row; 
-    border-radius: 20px; 
+    margin-bottom: 2%;
+    border-color: #F5F2FF !important;
+    flex-direction: row;
+    border-radius: 20px;
 }
+
 .ProfilAnnonce {
     position: relative;
     top: 2%;
@@ -177,137 +205,137 @@ box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.26);
     background-color: #a49ef6 !important;
     padding: 2%;
     display: flex;
-    margin-bottom : 2%; 
-    border-color : #a49ef6 !important;
-    flex-direction: row; 
-    border-radius: 20px; 
+    margin-bottom: 2%;
+    border-color: #a49ef6 !important;
+    flex-direction: row;
+    border-radius: 20px;
 }
 
 
-.GrandeAnnonce{
+.GrandeAnnonce {
     position: relative;
     top: 10%;
-    padding-top: 2%; 
+    padding-top: 2%;
     align-self: center;
     width: 90%;
     background-color: #a49ef6 !important;
     padding: 2%;
     display: flex;
-    margin-bottom : 2%; 
-    border-color : #a49ef6 !important;
-    flex-direction: row; 
-    border-radius: 15px; 
+    margin-bottom: 2%;
+    border-color: #a49ef6 !important;
+    flex-direction: row;
+    border-radius: 15px;
 }
-    
 
-    
+
+
 
 .ImagesAnnonces {
-    position : relative ; 
-    height: auto ;
-    width: 100% ;
-    border-radius: 15%; 
+    position: relative;
+    height: auto;
+    width: 100%;
+    border-radius: 15%;
     border-color: rebeccapurple !important;
 }
 
-.Prix{
-    position : relative ; 
+.Prix {
+    position: relative;
 
-width: 100%; 
+    width: 100%;
+
+
+}
+
+.Titre {
+    position: relative;
+    width: 100%;
+    padding-top: 2%;
+    padding-left: 2%;
 
 
 }
 
-.Titre{
-    position : relative ; 
-    width :  100%; 
-    padding-top: 2%  ; 
-    padding-left : 2% ; 
-  
+.Colonne1 {
 
-}
-
-.Colonne1{
-    
-   padding-left: 2%; 
-    width: 44%; 
+    padding-left: 2%;
+    width: 44%;
     justify-content: space-between;
-    
+
 
 }
 
-.Colonne3{
-
-   
-    width: 33%; 
-
-}
-
-.Colonne4{
-    flex-direction: column; 
-    
-    width: 12%; 
-    align-self: end; 
-align-items:end; 
-}
+.Colonne3 {
 
 
-.Colonne2{
-    flex-direction: row; 
-
-    width: 10%; 
-    align-self: end; 
-align-items:end; 
+    width: 33%;
 
 }
 
+.Colonne4 {
+    flex-direction: column;
+
+    width: 12%;
+    align-self: end;
+    align-items: end;
+}
 
 
-.Cat{
-   
-    padding-left: 2%; 
-    width: 100%; 
+.Colonne2 {
+    flex-direction: row;
+
+    width: 10%;
+    align-self: end;
+    align-items: end;
 
 }
 
-.pdp{
 
-    position: absolute; 
-    top:10%; 
-    right: 3%; 
-    width : 10% ; 
+
+.Cat {
+
+    padding-left: 2%;
+    width: 100%;
+
 }
 
-.Etat{
-    top:10%; 
-    width: 100%; 
+.pdp {
+
+    position: absolute;
+    top: 10%;
+    right: 3%;
+    width: 10%;
 }
 
-.Des{
-   padding-left: 2%; 
-   width: 100%; 
+.Etat {
+    top: 10%;
+    width: 100%;
 }
 
-.BigDes{
-   padding-left: 2%; 
-   width: 100%; 
-   font-size : 2rem ; 
+.Des {
+    padding-left: 2%;
+    width: 100%;
 }
 
-.Nom{
-
-    position: absolute; 
-    top:35%; 
-    right: 3%; 
-    width : 10% ; 
+.BigDes {
+    padding-left: 2%;
+    width: 100%;
+    font-size: 2rem;
 }
 
-.voir{
+.Nom {
 
-    align-items: flex-end; 
-    align-self: flex-end; 
-    justify-content:  flex-end;
-    align-content:flex-end; 
+    position: absolute;
+    top: 35%;
+    right: 3%;
+    width: 10%;
+}
+
+.voir {
+
+    align-items: flex-end;
+    align-self: flex-end;
+    justify-content: flex-end;
+    align-content: flex-end;
 }
 
 
