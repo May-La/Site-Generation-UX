@@ -10,13 +10,23 @@ p {
     padding-right: 10%;
 }
 
+a {
+    text-justify: center;
+    text-align: center;
+    align-self: center;
+}
+
 H2 {
     text-justify: center;
     text-align: center;
 }
 
+.navbar-brand {
+    border-radius: 50px;
+}
+
 .Logo {
-    width: 50%;
+    width: 30%;
     align-self: center;
 }
 
