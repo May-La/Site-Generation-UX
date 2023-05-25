@@ -1,5 +1,5 @@
-<nav class="navbar navbar-expand-lg navbar-light " style="background-color:#CBC3E3;">
-        <a class="navbar-brand" href="../Accueil.php">
+<nav class="navbar navbar-expand-lg navbar-light " style="background-color:#50C878;">
+        <a class="navbar-brand" href="../HTML/Accueil.php">
             <img src="../IMG/LogoAvecTexte.png" width="" height="50" class="d-inline-block align-top" alt="Génération UX">
 
         </a>
@@ -19,7 +19,7 @@
                         Etat de l'art
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <a class="dropdown-item" href="../EDLA/EDLA.php">Etat de l'art général</a>
+                            <a class="dropdown-item" href="../HTML/EDLA/EDLA.php">Etat de l'art général</a>
                             <a class="dropdown-item" href="../EDLA/Emotionnelle.php">Domaine émotionnel</a>
                             <a class="dropdown-item" href="../EDLA/Utilisabilite.php">Domaine Utilisabilité</a>
                             <a class="dropdown-item" href="../EDLA/UX.php">Domaine UX</a>
