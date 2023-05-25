@@ -1,6 +1,7 @@
-<?php $pageTitle = "Plan vert" ?>
+<?php $pageTitle = "Echelles retenues" ?>
 
 <?php require_once '../includes/head.php'; ?>
+<html>
 <?php require_once '../includes/navbar.php'; ?>
 <body>
 

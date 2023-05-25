@@ -1,9 +1,10 @@
-<?php $pageTitle = "Emotionnelle"; ?>
+<?php $pageTitle = "UX"; ?>
 
-<?php require_once '../../includes/head.php'; ?>
-<html>
-<?php require_once '../../includes/navbar.php'; ?>
+
+<?php require_once '../includes/head.php'; ?>
+<?php require_once '../includes/navbar.php'; ?>
 <body>
+
     <h2>L'UX ou l'expérience utilisateur</h2>
     <br>
     <p>
@@ -15,7 +16,7 @@
     </p> 
     <br>
     <div class = "text-center">
-        <a href = "https://carinelallemand.files.wordpress.com/2014/11/modc3a8le-ux-hassenzahl.png"><img src = "../../IMG/hassenzahlModel.png" id = "Fig1" alt = "Modèle de Hassenzahl"></a>
+        <a href = "https://carinelallemand.files.wordpress.com/2014/11/modc3a8le-ux-hassenzahl.png"><img src = "../IMG/hassenzahlModel.png" id = "Fig1" alt = "Modèle de Hassenzahl"></a>
         <h5>Figure 1. Modèle de Hassenzahl</h5>
     </div>
     <br>
@@ -26,7 +27,7 @@
     </p>
     <br>
     <div class = "text-center">
-        <a href = "https://carinelallemand.files.wordpress.com/2014/11/caractc3a8res-de-produits-hassenzahl.png"><img src = "../../IMG/ModeleCarac.png" id = "Fig2" alt = "Carctéristiques du modèle"></a>
+        <a href = "https://carinelallemand.files.wordpress.com/2014/11/caractc3a8res-de-produits-hassenzahl.png"><img src = "../IMG/ModeleCarac.png" id = "Fig2" alt = "Carctéristiques du modèle"></a>
         <h5>Figure 2. Représentation des caractéristiques du modèle de Hassenzahl</h5>
     </div>
     <br>
@@ -40,7 +41,7 @@
     </p>
     <br>
     <div class = "text-center">
-        <a href = "#"><img src = "../../IMG/MahlkeModel.png" id = "Fig3" alt = "Modèle de Mahlke et Thuring"></a>
+        <a href = "#"><img src = "../IMG/MahlkeModel.png" id = "Fig3" alt = "Modèle de Mahlke et Thuring"></a>
         <h5>Figure 3. Modèle de Mahlke et Thüring</h5>
     </div>
     <br>
@@ -50,7 +51,6 @@
         Les réponses émotionnelles sont influencées par ces deux éléments et permettent de connaître l’état moral de l’utilisateur lors des interactions avec le système.
     </p>
 
-
 </body>
-<?php require_once '../../includes/footer.php' ?>
+<?php require_once '../includes/footer.php' ?>
 </html>

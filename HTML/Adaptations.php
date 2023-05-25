@@ -1,4 +1,4 @@
-<?php $pageTitle = "Plan vert" ?>
+<?php $pageTitle = "Versions de l'adaptation"; ?>
 
 <?php require_once '../includes/head.php'; ?>
 <?php require_once '../includes/navbar.php'; ?>
