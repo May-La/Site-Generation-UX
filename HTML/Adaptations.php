@@ -4,7 +4,10 @@
 <?php require_once '../includes/navbar.php'; ?>
 <body>
 
+<br>
+<H2>Versions de l'adaptation</H2>
 
+<br>
 <img class = "Nous" src="../IMG/meCue.png" alt="Echelle meCue originelle">
 <p class = "middle">Echelle MeCue originelle</p>
 <img class = "Nous" src="../IMG/Adaptation meCue V2.svg" alt="Echelle meCue Design Adapté ">
