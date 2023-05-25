@@ -27,8 +27,8 @@ Notre projet prend comme donnée d’entrée une échelle d’évaluation exista
 
 
 <img class= "Logo" src="../IMG/Nous.jpg" alt="">
-<p>
-Clement Guoy |  Maylise Lageste  |  Chloé Monvoisin | Louise Taupin
+<p class="middle">
+Clement Goy |  Maylise Lageste  |  Chloé Monvoisin | Louise Taupin
 </p>
 
 
