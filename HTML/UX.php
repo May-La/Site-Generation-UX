@@ -5,6 +5,7 @@
 <?php require_once '../includes/navbar.php'; ?>
 <body>
 
+    <br>
     <h2>L'UX ou l'expérience utilisateur</h2>
     <br>
     <p>

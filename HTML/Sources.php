@@ -3,6 +3,7 @@
 <?php require_once '../includes/head.php'; ?>
 <?php require_once '../includes/navbar.php'; ?>
 <body>
+    <br>
     <h2>Sources du texte</h2>
     <br>
     <p>Althaus, B. (2016). Mémoire de Master en Psychologie.</p>
