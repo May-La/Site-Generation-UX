@@ -106,6 +106,7 @@
         <br>
         <h5>Figure 6. Aide à la compréhension du questionnaire</h5>
     </div>
+    <br>
     <hr ALIGN=CENTER WIDTH="20%"> 
     <br>
     <h3 id = "$2.2">II. UEQ (User Experience Questionnaire)</h3>
@@ -134,8 +135,49 @@
         Une aide du même type que celle proposée pour l’AttrakDiff pourrait être intéressante pour rendre plus accessible l’UEQ.
     </p>
     <p>
-        En 2019, dans le cadre d’une évaluation d’une application mobile, des chercheurs ont adapté l’échelle aux enfants en rendant le vocabulaire plus accessible <a href = "#Fig8">(Figure 8)</a>. 
+        En 2019, dans le cadre d’une évaluation d’une application mobile, des chercheurs ont adapté l’échelle aux enfants en rendant le vocabulaire plus accessible. 
         Le nombre d’items a par contre été conservé.
+    </p>
+    <hr ALIGN=CENTER WIDTH="20%"> 
+    <br>
+    <h3 id = "$2.3">III. MeCue</h3>
+    <br>
+    <p>
+        Développée en 2013 par Minge, Riedel et Thüring, des chercheurs allemands, avant d’être traduite en 2017 par Lallemand. 
+        Cette échelle est la plus longue des trois, comportant 30 items. Ceux-ci sont divisés en 4 critères: la perception du système, les émotions provoquées, les conséquences de l’usage et l’évaluation globale. 
+        Comme les deux autres échelles UX, meCue permet d'évaluer n’importe quel système interactif.  (Échelle complète en annexe).
+    </p>
+    <p>
+        Le critère “perception du système” est composé de 15 items et permet d’obtenir des données sur l’attractivité, l’efficacité, l’accessibilité et la dépendance pouvant être engendrée par le système.
+        Le critère “émotions” est constitué de 8 items et permet d’évaluer quatre émotions positives et quatre émotions négatives.
+        Enfin, le critère “conséquences de l’usage”, comportant 6 items, permet de recueillir des données sur la fréquence d’usage et l’attachement de l’utilisateur au système.
+    </p>
+    <p>
+        Pour le fonctionnement de l'échelle, les items sont des phrases décrivant le produit. A côté de chaque phrase se trouvent 7 cercles à cocher pour connaître l’avis de l’utilisateur. 
+        Ces cercles vont de “pas du tout d’accord” à “tout à fait d’accord”.
+    </p>
+    <div class = "text-center">
+        <img src = "../IMG/ExtraitUEQ.png" id = "Fig8" alt = "Extrait MeCue" WIDTH="50%">
+        <br>
+        <br>
+        <h5>Figure 8. Extrait de MeCue</h5>
+    </div>
+    <p>
+        En plus de ces items, le dernier critère, composé d’un item seulement, est un axe allant de “mauvais” à “bon” <a href = "#Fig8">(Figure 8)</a>. 
+        Celui-ci laisse alors l’utilisateur noter le système avec plus de précision.
+    </p>
+    <div class = "text-center">
+        <img src = "../IMG/ExtraitUEQ.png" id = "Fig9" alt = "Module 4 MeCue" WIDTH="50%">
+        <br>
+        <br>
+        <h5>Figure 9. Module IV de MeCue</h5>
+    </div>
+    <p>
+        En conclusion, cette échelle permet de recueillir des données complémentaires aux deux autres échelles UX mentionnées. 
+        C’est également la plus accessible des trois, le vocabulaire composant les phrases étant plus simple. Cependant c’est également la plus longue. 
+        Même si elle est plus compréhensible, il serait intéressant de tester le temps de concentration sur cette échelle afin de voir si des items doivent être supprimés et en quelle quantité. 
+        Une aide visuelle pourrait également permettre aux enfants de 7 à 14 ans de comprendre plus facilement l’échelle et donc de cocher plus d’items.
+        Contrairement à AttrakDiff et UEQ, il ne semble pas y avoir eu de tentatives d’adaptation à la tranche d’âge qui nous intéresse.
     </p>
 
     <hr ALIGN=CENTER WIDTH="50%"> 
@@ -147,10 +189,10 @@
         Ces trois échelles très utilisées sont donc pratiques pour obtenir une évaluation globale d’un produit. 
         Elles sont par contre plutôt longues et le vocabulaire utilisé n’est pas toujours accessible à tous. 
         Une piste d’adaptation pour les trois échelles, et déjà exploitée pour d’eux d’entre elles, est de réduire le nombre d’items et simplifier le vocabulaire. 
-        Une autre possibilité est d’imager les items. On en a un exemple grâce à Antonio Giardi avec la figure 15 (p.30).
+        Une autre possibilité est d’imager les items. On en a un exemple grâce à Antonio Giardi avec <a href = "#6">la figure 6</a>.
     </p>
 
-
+    <a href = "#$1">Retour en haut de la page</a>
 
 
 </body>
