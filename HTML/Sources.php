@@ -5,6 +5,7 @@
 <body>
     <br>
     <h2>Sources du texte</h2>
+    <a href = "EDLA.php">Retour au sommaire</a>
     <br>
     <p>Althaus, B. (2016). Mémoire de Master en Psychologie.</p>
     <p><a href = "https://uxmind.eu/2014/06/23/attrakdiff-evaluation-quantitative-ux/">AttrakDiff : Une évaluation quantitative de l’UX. (2014, juin 23). Carine Lallemand.</a></p>
@@ -16,6 +17,9 @@
     <p><a href = "https://www.adimeo.com/blog/comment-mesurer-la-qualite-de-l-ergonomie-de-votre-site-web">Comment mesurer la qualité de l’UX et de l’ergonomie de votre site web ? (2020, juin 10).</a></p>
     <p>Brooke, J. (1995). SUS : A quick and dirty usability scale. Usability Eval. Ind., 189.</p>
     <p><a href = "https://doi.org/10.1002/0471654728.ch20">de Leeuw, E., Borgers, N., & Smits, A. (2004). Pretesting Questionnaires for Children and Adolescents. In Methods for Testing and Evaluating Survey Questionnaires (p. 409‑429). John Wiley & Sons, Ltd. </a></p>
+
+    <br>
+    <a href = "EDLA.php">Retour au sommaire</a>
 </body>
 <?php require_once '../includes/footer.php' ?>
 </html>

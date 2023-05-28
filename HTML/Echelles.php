@@ -61,6 +61,8 @@
     </ul>
     <br>
     <a href = "#CSUQ">Retour en haut de la page</a>
+    <br>
+    <a href = "EDLA.php">Retour au sommaire</a>
 </body>
 <?php require_once '../includes/footer.php' ?>
 </html>

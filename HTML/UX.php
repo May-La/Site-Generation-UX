@@ -193,8 +193,8 @@
     </p>
 
     <a href = "#$1">Retour en haut de la page</a>
-
-
+    <br>
+    <a href = "EDLA.php">Retour au sommaire</a>
 </body>
 <?php require_once '../includes/footer.php' ?>
 </html>
