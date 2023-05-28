@@ -25,6 +25,12 @@ h5 {
     font-size: 18px;
 }
 
+ul {
+    padding-left: 12%;
+    padding-right: 10%;
+    font-size: 15px;
+}
+
 a {
     text-justify: center;
     text-align: center;
