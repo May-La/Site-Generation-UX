@@ -4,7 +4,7 @@
 <?php require_once '../includes/navbar.php'; ?>
 <body>
     <br>
-    <h2></h2>
+    <h2>Utilisabilité</h2>
     <br>
     <p>
         La majorité des échelles d’utilisabilité sont génériques et conviennent à tous types de systèmes (numérique ou non ) et ont pour objectif d’évaluer l'utilisabilité d’un produit ou système. L’utilisabilité ( de l’anglais usability) est « le degré selon lequel un produit peut être utilisé, par des utilisateurs identifiés, pour atteindre des buts définis avec efficacité, efficience et satisfaction, dans un contexte d’utilisation spécifié » selon la norme ISO 9241-11. Ces échelles sont donc utiles lors de l’étude des interactions hommes-systemes.

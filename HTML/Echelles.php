@@ -28,7 +28,7 @@
     <h3>Pourquoi?</h3>
     <br>
     <p>
-        L’échelle PrEmo est intéressante à adapter puisque c’est une échelle assez intéractive, surtout en version numérique, et l'interactivité est une dimension importante pour l’attention de l’enfant. 
+        L’échelle PrEmo est intéressante à adapter puisque c’est une échelle assez intéractive, surtout en version numérique, et l'intéractivité est une dimension importante pour l’attention de l’enfant. 
         De plus, le fait que les émotions soient communiquées sous forme de visage, les influences socio-culturelles ou éducatives sont atténuées, et enfin le test est plutôt court, ce qui est appréciable si on veut l’adapter pour des enfants.
     </p>
     <br>

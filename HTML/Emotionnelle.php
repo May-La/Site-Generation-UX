@@ -3,7 +3,7 @@
 <?php require_once '../includes/head.php'; ?>
 <?php require_once '../includes/navbar.php'; ?>
 <body>
-    <h2></h2>
+    <h2>Emotionnel</h2>
     <br>
     <p>L’évaluation émotionnelle par rapport à un site ou autre est utile pour maîtriser l’impact émotionnel qu’a un système sur ses utilisateurs. Tous les systèmes qu’on rencontre au quotidien nous procurent des émotions de plus ou moins forte intensité et lorsqu’elle est positive (pour un site internet par exemple), elle va nous donner envie de réitérer l’expérience (de retourner sur le site par exemple).</p>
     <p>Le test utilisateur émotionnel, c’est-à-dire l’échelle émotionnelle, consiste à demander à l’utilisateur d’exprimer les émotions ressentis pendant l’utilisation avec des outils verbaux ou non. Dans cette partie, nous allons rassembler des informations sur les émotions, et détailler le fonctionnement de certaines échelles émotionnelles existantes.</p>
