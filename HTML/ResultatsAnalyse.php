@@ -45,11 +45,12 @@ Voici l’analyse détaillée de certains résultats significatifs(on retrouve l
 </p>
 <br>
 <h6>J’ai facilement utilisé ce produit : </h6>
+<br>
 
 <div class="troisfigures">
-    <img class= "figuretrois" src="../IMG/facil1.png" alt="Possibilités de réponses originielles ">
-    <img class= "figuretrois" src="../IMG/facil2.png" alt="Possibilités de réponses originielles ">
-    <img class= "figuretrois" src="../IMG/facil3.png" alt="Possibilités de réponses originielles ">
+    <img class= "figuretrois" src="../IMG/facil1.png" alt="Resultat item J’ai facilement utilisé ce produit : labyrinthe simple ">
+    <img class= "figuretrois" src="../IMG/facil2.png" alt="Resultat item J’ai facilement utilisé ce produit : labyrinthe espace ">
+    <img class= "figuretrois" src="../IMG/facil3.png" alt="Resultat item J’ai facilement utilisé ce produit : labyrinthe citrouille ">
 </div>
 <br>
 <p>
@@ -73,11 +74,12 @@ On peut aussi observer que les labyrinthes “espace” et “citrouille” ont 
 
  <br>
 <h6>J'ai envie d'utiliser ce produit parce qu'il est joli</h6>
+<br>
 
 <div class="troisfigures">
-    <img class= "figuretrois" src="../IMG/joli1.png" alt="Possibilités de réponses originielles ">
-    <img class= "figuretrois" src="../IMG/joli2.png" alt="Possibilités de réponses originielles ">
-    <img class= "figuretrois" src="../IMG/joli3.png" alt="Possibilités de réponses originielles ">
+    <img class= "figuretrois" src="../IMG/joli1.png" alt="Resultat item J'ai envie d'utiliser ce produit parce qu'il est joli labyrinthe simple ">>
+    <img class= "figuretrois" src="../IMG/joli2.png" alt="Resultat item J'ai envie d'utiliser ce produit parce qu'il est joli labyrinthe espace ">
+    <img class= "figuretrois" src="../IMG/joli3.png" alt="Resultat item J'ai envie d'utiliser ce produit parce qu'il est joli labyrinthe citrouille ">
 </div>
 <br>
 
@@ -95,6 +97,150 @@ On peut en déduire que les réponses à cette question ont été correctement t
 </p>
 
 
+<br>
+<h6>
+Ce produit est comme un ami pour moi
+</h6>
+<br>
+
+<div class="troisfigures">
+    <img class= "figuretrois" src="../IMG/ami1.png" alt="Resultat item  Ce produit est comme un ami pour moi labyrinthe simple ">
+    <img class= "figuretrois" src="../IMG/ami2.png" alt="Resultat item  Ce produit est comme un ami pour moi labyrinthe espace  ">
+    <img class= "figuretrois" src="../IMG/ami3.png" alt="Resultat item  Ce produit est comme un ami pour moi labyrinthe citrouille  ">
+</div>
+<br>
+
+<p>
+Ici on retrouve la moitié des enfants qui ont mis une réponse neutre pour le labyrinthe simple, la moitié des enfants qui n’ont pas été d’accord pour le labyrinthe espace et plus d’hétérogénéité pour le labyrinthe citrouille. 
+</p>
+<p>
+Le labyrinthe simple n’est pas très engageant émotionnellement, ce qui peut expliquer ces résultats. Le labyrinthe Espace est plus engageant émotionnellement mais reste un labyrinthe ne pouvant pas ressembler à un ami. Enfin on peut supposer que la citrouille engage à plus d’indécision puisqu’elle a une tête humanoïde qu’un enfant pourrait considérer comme amicale.
+</p>
+<p>
+Cependant ces raisons restent hypothétiques et lorsqu’on discute avec les participants lors du focus group, on se rend compte que les enfants ont été déstabilisés par cette question puisqu’ils ne voyaient pas en quoi un labyrinthe pouvait être considéré comme un ami. L’indécision et le désaccord avec cette question sont donc assez parlants mais ces résultats sont à traiter avec prudence pour la citrouille. Cette formulation ou/et cette question n’est peut être pas à conserver pour une échelle MeCue pour enfants finale. 
+</p>
+
+
+<br>
+<h6>
+J’aime le produit
+</h6>
+<br>
+
+<div class="troisfigures">
+    <img class= "figuretrois" src="../IMG/love1.png" alt="Resultat item J’aime le produit labyrinthe simple ">
+    <img class= "figuretrois" src="../IMG/love2.png" alt="Resultat item  J’aime le produit labyrinthe espace  ">
+    <img class= "figuretrois" src="../IMG/love3.png" alt="Resultat item  J’aime le produit labyrinthe citrouille  ">
+</div>
+<br>
+<p>
+Sur les résultats de l’échelle on peut voir presque unanimement que les enfants ont aimé voire adoré le produit peu importe le type de labyrinthe. Pour voir si ce test est fiable on peut comparer aux scores totaux de l’échelle pour voir si la satisfaction du produit a été globale.
+</p>
+<p>
+Dans les focus group, ces résultats se vérifient puisque tous les enfants (ou presque) étaient très enthousiastes vis-à-vis du labyrinthe, et les scores globaux sont tous supérieurs à 4 (simple = 4,3, espace=4,6 et citrouille= 4,75), donc on peut en déduire que les réponses à cette question ont été correctement transmises par notre échelle.
+</p>
+
+
+<br>
+<h6>
+Quand j'utilise le produit, je m'ennuie
+</h6>
+<br>
+
+<div class="troisfigures">
+    <img class= "figuretrois" src="../IMG/use1.png" alt="Resultat item Quand j'utilise le produit, je m'ennuie labyrinthe simple ">
+    <img class= "figuretrois" src="../IMG/use2.png" alt="Resultat item  Quand j'utilise le produit, je m'ennuie labyrinthe espace  ">
+    <img class= "figuretrois" src="../IMG/use3.png" alt="Resultat item  Quand j'utilise le produit, je m'ennuie labyrinthe citrouille  ">
+</div>
+<br>
+
+<p>
+On remarque que les enfants globalement ne se sont pas ennuyés en faisant les labyrinthes. 
+</p>
+<p>
+Cependant il y a quand même une différence entre le labyrinthe “ simple” et les 2 autres. 
+</p>
+<p>
+En effet, pour les deux labyrinthes plus complexes, aucun enfant ne s’est ennuyé. La seule différence est que pour le labyrinthe “espace” les enfants sont moins catégoriques ( il y a des “pas d’accord” et pas uniquement des “pas du tout d’accord”) . 
+</p>
+<p>
+Pour le labyrinthe simple il y a certains enfants qui se sont ennuyés  ; 1/12 très d'accord et 2/12 d’accord ( ce qui fait un total d’enfant disant s'être ennuyé de 25%)  de plus il y a 1 neutre et un enfant n’ayant pas répondu à la question. 
+</p>
+<p>
+On a donc une corrélation entre l’attractivité du labyrinthe ( l”espace” et “citrouille” comme leurs noms l’indiquent représentent quelque chose contrairement au labyrinthe simple qui n’a aucuns dessins” ) et les réponses à la question .
+</p>
+<p>
+Dans les focus groups certaines réponses ( “Original, c’est une bonne idée l’idée de l’espace” “Drôle parce que j’adore les martiens” “ J’adore l’espace donc c’est drôle”) nous confirment cet attraits pour le labyrinthe “espace” et d’autres l’ennui potentiel sur le labyrinthe “simple” ( “D’autres labyrinthes sont mieux, celui-là était trop facile “).
+</p>
+<p>
+On peut en déduire que les réponses à cette question ont été correctement transmises par notre échelle.
+</p>
+
+
+<br>
+<h6>
+je choisirais ce produit à nouveau
+</h6>
+<br>
+
+<div class="troisfigures">
+    <img class= "figuretrois" src="../IMG/again1.png" alt="Resultat item je choisirais ce produit à nouveau labyrinthe simple ">
+    <img class= "figuretrois" src="../IMG/again2.png" alt="Resultat item  je choisirais ce produit à nouveau labyrinthe espace  ">
+    <img class= "figuretrois" src="../IMG/again3.png" alt="Resultat item  je choisirais ce produit à nouveau labyrinthe citrouille  ">
+</div>
+<br>
+<p>
+D’après les résultats de l’échelle, pour le labyrinthe simple, presque la moitié des enfants sont prompts à refaire ce labyrinthe, et l’autre moitié est plutôt sans opinion que défavorable. 
+</p>
+<p>
+Dans le labyrinthe spatial, les enfants sont mitigés entre: être sans opinion ou favorable à le refaire. Pour le labyrinthe citrouille, la majorité des avis est également divisée entre favorable et sans opinion. 
+</p>
+<p>
+Ainsi on peut déduire qu’en règle générale, les enfants ne refuseraient pas de le refaire. Lors du débrief après avoir rempli les échelles, les participants auraient préféré faire un nouveau labyrinthe plutôt que refaire celui-ci, et soulevaient la question de quel produit choisir s'ils disposaient d’un choix. Etant donné que les enfants n’ont généralement pas le choix de leurs activités, surtout dans un contexte de classe, cela peut se comprendre et expliquer le fait qu’ils soient plutôt d’accord pour le refaire s’ils n’ont rien d’autre de proposé. 
+</p>
+<p>
+Il serait donc intéressant de notifier la possibilité de faire un autre labyrinthe, mais cela est compliqué à généraliser puisque notre échelle doit s’adapter à tout type de système et pas forcément un système qui peut avoir plusieurs exemplaires différents (exemple : un jeu vidéo)
+</p>
+
+<br>
+<h6>
+Quand j'utilise ce produit le temps passe vite
+</h6>
+<br>
+
+<div class="troisfigures">
+    <img class= "figuretrois" src="../IMG/time1.png" alt="Resultat item Quand j'utilise ce produit le temps passe vite labyrinthe simple ">
+    <img class= "figuretrois" src="../IMG/time2.png" alt="Resultat item  Quand j'utilise ce produit le temps passe vite labyrinthe espace  ">
+    <img class= "figuretrois" src="../IMG/time3.png" alt="Resultat item  Quand j'utilise ce produit le temps passe vitelabyrinthe citrouille  ">
+</div>
+<br>
+
+<p>
+On remarque une corrélation entre les résultats à la question : quand j’utilise le produit je m’ennuie et celle- ci. 
+</p>
+<p>
+<ul>
+<li>Pour le “citrouille” il n’y a que des avis positifs ( ⅝ sont “d'accord”) et des avis neutres ( 3/8) et tous les enfants avaient affirmé ne pas s’ennuyer. </li>
+<li>Pour le labyrinthe “espace” il y a une réponse négative ( venant de l’enfant ayant fait le labyrinthe le plus rapidement en 17 secondes. Ce temps étant très court, il n'est pas possible de paraître long. </li>
+<li>Pour le labyrinthe simple c’est celui qui est apparu le plus long . </li>
+</ul>
+</p>
+
+
+<br>
+<h5>
+Analyse générale
+</h5>
+<br>
+<div class="troisfigures">
+    <img class= "figuretrois" src="../IMG/cam1.png" alt="Resultat module 4 labyrinthe simple ">
+    <img class= "figuretrois" src="../IMG/cam2.png" alt="Resultat module 4 labyrinthe espace  ">
+    <img class= "figuretrois" src="../IMG/cam3.png" alt="Resultat module 4 labyrinthe citrouille  ">
+</div>
+<br>
+<p>
+De plus, conformément aux scores moyen de l’échelle, ces graphiques à secteurs mettent en avant le fait que les enfants ont préférés les labyrinthes espace et citrouille au labyrinthe simple. De plus, au-delà du score moyen, nous avons remarqué que les enfants qui obtenaient des scores élevés à l’échelle avaient tendance à être généreux dans le module 4. Cela semble montrer que l’échelle a plutôt bien évalué le niveau de satisfaction général pour les labyrinthes. Cependant, contrairement aux moyennes des scores obtenus, l’analyse des résultats du quatrième module tend à montrer que le labyrinthe sur l’espace était préféré à celui en forme de citrouille. Mais leurs scores étant très proches on peut attribuer cette différence aux erreurs de remplissage des enfants ou au faible échantillon de participants et il faudrait donc réitérer le test. 
+</p>
 </body>
 <?php require_once '../includes/footer.php' ?>
 </html>
