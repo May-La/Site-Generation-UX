@@ -241,6 +241,78 @@ Analyse générale
 <p>
 De plus, conformément aux scores moyen de l’échelle, ces graphiques à secteurs mettent en avant le fait que les enfants ont préférés les labyrinthes espace et citrouille au labyrinthe simple. De plus, au-delà du score moyen, nous avons remarqué que les enfants qui obtenaient des scores élevés à l’échelle avaient tendance à être généreux dans le module 4. Cela semble montrer que l’échelle a plutôt bien évalué le niveau de satisfaction général pour les labyrinthes. Cependant, contrairement aux moyennes des scores obtenus, l’analyse des résultats du quatrième module tend à montrer que le labyrinthe sur l’espace était préféré à celui en forme de citrouille. Mais leurs scores étant très proches on peut attribuer cette différence aux erreurs de remplissage des enfants ou au faible échantillon de participants et il faudrait donc réitérer le test. 
 </p>
+
+
+<H2>Conclusions sur notre échelle</H2>
+<br>
+<H5>Points positifs</H5>
+
+<p>
+On retrouve du positif dans l'analyse des résultats.
+</p>
+<p>
+Pour ce qui est de la fidélité de l'échelle, le coefficient alpha du premier module (qui vaut 0,77) est au dessus du seuil et (même si l’échantillon de test était un peu restreint pour une réelle validation) on peut donc se satisfaire de la corrélation entre les items du premier module. Pour le second et troisième module (qui ont obtenus des coefficients alpha respectifs de 0,50 et 0,45), même si la corrélation entre les items est insuffisante, elle n’est pas ridicule et peut être améliorée à force d'itérations de modifications du vocabulaire et de tests.
+</p>
+<p>
+Pour ce qui est de la validité de l'échelle, il n'y a pas de comparaison pratique par le biais d’un test par exemple entre meCue et notre adaptation en raison de la différence de public ciblé par les échelles. Néanmoins, nous avons su nous adapter et les arguments en faveur de la validité de cette dernière (aide des professeurs pour la reformulation des items et cohérence des résultats) n’en restent pas moins recevables.  
+</p>
+<p>
+Pour ce qui est de la compréhension, hormis quelques items spécifiques qui ont suscité des doutes d’interprétation chez les enfants, la plupart de nos items ont été correctement assimilés. Durant le focus groupe dédié à l’échelle, nous avons eu des retours positifs sur cette dernière tel que “bonne idée les émojis”, “génial”, “j’ai bien aimé la dernière question”, “bonne idée pour le questionnaire”, “j’aime beaucoup l’idée de l’astronaute et le questionnaire”, “j’aime bien les questions”, “je trouve que vos questions étaient bien aimées”, “j’ai bien aimé les questions”, “j’aime bien répondre au produit”, “utile” ou encore “originale”.
+</p>
+
+<H5>Points à améliorer</H5>
+
+<p>
+Sur le plan de la fidélité de notre adaptation, le coefficient alpha de deux modules sur trois n’a pas atteint le seuil de 0,70. Il faut donc améliorer la corrélation entre les items des modules deux et trois doivent être améliorées pour valider l’échelle adaptée.
+</p>
+<p>
+Un bon moyen d’améliorer la validité de l’échelle aurait été de tester meCue et l’échelle adaptée sur des sujets adultes afin de voir si les résultats enregistrés étaient similaires et de comparer les scores. 
+</p>
+<p>
+De manière générale, le processus de validation pour être complet doit être amélioré en augmentant l’échantillon de sujets et en effectuant davantage de tests.
+</p>
+<p>
+Nous avons remarqué dès la passation des tests et avant l’analyse qu’une partie des enfants ne voyaient pas que l’échelle est recto-verso. Si nous n’avions pas fait la remorque beaucoup d’échelles n’auraient été remplies qu'à moitié. Nous avons donc rajouté une indication pour tourner la page en bas à droite du recto : “Suite du questionnaire au dos de la page”
+</p>
+<p>
+Aussi pendant la passation des tests nous avons certains enfants qui nous demandaient la signification des noms des modules que nous avions laissé sur l’échelle (ex: Partie ¼ - Perception du produit) . Les noms et indications des parties les ayant perturbés et n'étant pas utiles pour la compréhension et le remplissage de l’échelle nous avons décidé de les enlever sur la dernière adaptation de notre échelle.
+</p>
+<p>
+De plus, 2 enfants sur 28 n’ont pas répondu à la première question du recto “J’ai facilement utilisé ce produit “ et 6 enfants sur 28 à la première question du verso “J’aime le produit”. En observant notre échelle adaptée nous nous sommes rendus compte qu’il n’ avait pas de ligne séparant les choix ( les mots “ d’accord”... et les pouces) et les premières questions sur chaque page. 
+</p>
+
+<img class= "figure" src="../IMG/hpt.png" alt="Haut de page de l’échelle testée  ">
+<p class="middle">Haut de page de l’échelle testée  </p>
+
+<p>
+Nous avons donc rajouté une ligne séparatrice pour que la démarcation entre les informations données et les réponses attendues soit claire.
+</p>
+
+<img class= "figure" src="../IMG/hpf.png" alt=" Haut de page de l’échelle finale ">
+<p class="middle"> Haut de page de l’échelle finale  </p>
+
+
+<p>
+Enfin certains enfants n’étaient pas sûrs de la manière de répondre aux questions, notamment le fait de cocher les cercles. Nous avons donc rajouté une consigne tout en haut de la page pour faciliter le remplissage de l’échelle : “Coche la case qui correspond le plus à ce que tu penses”. 
+</p>
+<p>
+Nous avons également reçu quelques critiques sur notre échelle lors des focus groupes, par exemple nous avons pu lire : “on pourrait rajouter : est ce qu’on se sent à l’aise avec le labyrinthe”, “ je ne sais pas si je l’échangerais car je ne sais pas les autres produits”, “questions improbables”, “des questions bizarres”, “chelou”, “étrange”, “pas de sens” ou encore “incompréhensible”. On doit donc pouvoir améliorer l’échelle, et notamment sa compréhension, de manière à pallier aux remarques faites par les enfants.
+</p>
+<p>
+Ainsi voici notre dernière adaptation de l’échelle après l'analyse des résultats des tests (ici juste le recto) : 
+</p>
+
+
+<img class= "figureborder" src="../IMG/H1.png" alt=" Echelle testées">
+<p class="middle"> Echelle testées </p>
+
+<img class= "figureborder" src="../IMG/H2.png" alt=" Dernière adaptation de l’échelle ">
+<p class="middle"> Dernière adaptation de l’échelle </p>
+
+
+
+
+
 </body>
 <?php require_once '../includes/footer.php' ?>
 </html>
