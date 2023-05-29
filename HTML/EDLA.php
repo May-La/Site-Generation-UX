@@ -20,7 +20,7 @@
     <a href = "TestDemarch.php/#demarche"><h5>6. Démarcher des écoles</h5></a>
     <a href = "Sources.php"><h5>Sources</h5></a>
     <br>
-    <a href="../PDF/GenerationUX_Etat-de-l-art.pdf">Lien vers l'etat de l'art complet en PDF</a>
+    <a class="BoutonEDLA" href="../PDF/GenerationUX_Etat-de-l-art.pdf"> Lien vers l'etat de l'art complet en PDF </a>
     
 </body>
 <?php require_once '../includes/footer.php' ?>
