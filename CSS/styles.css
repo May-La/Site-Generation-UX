@@ -5,6 +5,11 @@ body {
     /* background-color: rgb(192, 230, 192) !important; */
 }
 
+h1 {
+    text-justify: center;
+    text-align: center;
+    align-self: center;
+}
 
 p {
     padding-left: 10%;
