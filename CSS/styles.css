@@ -24,6 +24,14 @@ h3 {
     font-size: 26px;
 }
 
+
+h6 {
+    padding-left: 15%;
+    padding-right: 10%;
+    color: #2e4131;
+
+}
+
 h5 {
     text-justify: center;
     text-align: center;
@@ -87,6 +95,17 @@ H2 {
 
 .figure {
     width: 50%;
+    align-self: center;
+}
+
+.figuretrois {
+    width: 33%;
+}
+
+.troisfigures {
+    display: flex;
+    flex-direction: row;
+    width: 95%;
     align-self: center;
 }
 
