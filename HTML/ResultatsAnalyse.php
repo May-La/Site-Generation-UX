@@ -4,7 +4,7 @@
 <?php require_once '../includes/navbar.php'; ?>
 <body>
     <br>
-<H2>Fidélité de l’échelle</H2>
+<H2 id="titre">Fidélité de l’échelle</H2>
 <br>
 <p>
 La fidélité d’une échelle s’évalue surtout à l’aide d’outils statistiques. On applique ces derniers aux résultats obtenus à l'issue des passages de test. Plus l’échantillon de personnes effectuant le test est important, plus l’évaluation de la fidélité est fiable. Nous avons fait remplir notre échelle à 28 élèves et avons donc recueilli autant de résultats. Généralement, lors des protocoles de vérification de fidélité d'une échelle, le nombre de sujets est plus important et les expérimentations sont répétées. Néanmoins, l’étude des données que nous avons obtenues font sens et nous permettent déjà d’aboutir à des conclusions.
@@ -311,7 +311,7 @@ Ainsi voici notre dernière adaptation de l’échelle après l'analyse des rés
 
 
 
-
+<a href = "#titre">Retour en haut de la page</a>
 
 </body>
 <?php require_once '../includes/footer.php' ?>
