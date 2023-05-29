@@ -1,7 +1,6 @@
 <nav class="navbar navbar-expand-lg navbar-light" style="background-color:#50C878;">
         <a class="navbar-brand" href="Accueil.php">
-            <img src="../IMG/logo GUUX (1).png" width="" height="50" class="d-inline-block align-top" alt="Génération UX">
-
+            <img src="../IMG/logo GUUX (1).png" width="" height="50" class="d-inline-block align-top" alt="Génération UX" style="border-radius:50%">
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
             aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">

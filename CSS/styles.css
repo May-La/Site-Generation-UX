@@ -2,6 +2,7 @@ body {
     display: flex;
     flex-direction: column;
     /* background-color: #f5f2ff !important; */
+    /* background-color: rgb(192, 230, 192) !important; */
 }
 
 
@@ -14,7 +15,7 @@ p {
 h3 {
     padding-left: 15%;
     padding-right: 10%;
-    color:#2e4131;
+    color: #2e4131;
     font-size: 26px;
 }
 
@@ -35,6 +36,34 @@ a {
     text-justify: center;
     text-align: center;
     align-self: center;
+    color: green;
+}
+
+a :hover {
+    text-justify: center;
+    text-align: center;
+    align-self: center;
+    color: green;
+    background-color: lightgray;
+    border-radius: 15px;
+}
+
+.BoutonEDLA {
+    text-justify: center;
+    text-align: center;
+    align-self: center;
+    color: green;
+    background-color: lightgray;
+    border-radius: 15px;
+}
+
+.BoutonEDLA :hover {
+    text-justify: center;
+    text-align: center;
+    align-self: center;
+    color: green;
+    background-color: lightgreen !important;
+    border-radius: 15px;
 }
 
 H2 {
