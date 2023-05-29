@@ -10,6 +10,11 @@
     <br>
     <b><p>Sommaire de l'état de l'art </p></b>
     <h5>1. Différents types d'échelles</h5>
+    <p>
+        Les échelles standardisées sont utilisées en psychologie puis dans l’UX design depuis plus de 80 ans. 
+        Une des premières échelles standardisées est l’échelle de Weschler, le WISC V, un test d’intelligence pour enfants et adolescents. 
+        Ce concept a ensuite été repris et adapté pour l’UX design et la conception de produits en général. Nous nous intéresserons dans cet état de l’art aux échelles d’utilisabilité, émotionnelles et UX.
+    </p>
     <a href = "Utilisabilite.php"><p>Echelles d'utilisabilité</p></a>
     <a href = "Emotionnelle.php"><p>Echelles émotionnelles</p></a>
     <a href = "UX.php"><p>Echelles UX</p></a>
