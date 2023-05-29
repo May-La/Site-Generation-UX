@@ -5,6 +5,13 @@ body {
     /* background-color: rgb(192, 230, 192) !important; */
 }
 
+img {
+    width: 50%;
+    align-self: center;
+    border : 3px solid #768076;
+    border-radius: 3%;
+}
+
 h1 {
     text-justify: center;
     text-align: center;
