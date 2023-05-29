@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg navbar-light " style="background-color:#50C878;">
+<nav class="navbar navbar-expand-lg navbar-light" style="background-color:#50C878;">
         <a class="navbar-brand" href="Accueil.php">
             <img src="../IMG/logo GUUX (1).png" width="" height="50" class="d-inline-block align-top" alt="Génération UX">
 
@@ -23,8 +23,9 @@
                             <a class="dropdown-item" href="Emotionnelle.php">Domaine émotionnel</a>
                             <a class="dropdown-item" href="Utilisabilite.php">Domaine Utilisabilité</a>
                             <a class="dropdown-item" href="UX.php">Domaine UX</a>
-                            <a class="dropdown-item" href="ValidationSuite.php">Processus d'adaptation et de validation d'une échelle</a>
+                            <a class="dropdown-item" href="Validation.php">Processus de validation d'une échelle</a>
                             <a class="dropdown-item" href="Echelles.php">Echelles retenues pour l'adaptation</a>
+                            <a class="dropdown-item" href="TestDemarch.php">Test et démarchage des écoles</a>
                             <a class="dropdown-item" href="Sources.php">Sources de l'état de l'art</a>
                     </div>
                 </li>
