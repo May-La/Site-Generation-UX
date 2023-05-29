@@ -12,13 +12,13 @@
     </p>
     <br>
     <div class = "text-center">
-        <img src = "../IMG/Questionnairep1.png" alt = "Page 1 Questionnaire" width = "60%">
+        <img class="figure" src = "../IMG/Questionnairep1.png" alt = "Page 1 Questionnaire" width = "60%">
     </div>
     <br>
     <h5>Figure 1. Page 1 du questionnaire</h5>
     <br>
     <div class = "text-center">
-        <img src = "../IMG/Questionnairep2.png" alt = "Extrait du questionnaire" width = "60%">
+        <img class="figure"  src = "../IMG/Questionnairep2.png" alt = "Extrait du questionnaire" width = "60%">
     </div>
     <br>
     <h5>Figure 2. Extrait de la page 2 du questionnaire</h5>
@@ -26,7 +26,7 @@
     <p>Cette deuxième figure permet d'illustrer la construction du questionnaire</p>
     <p>Nous avons reçu en tout trois réponses et celles-ci corrélaient avec ce que l'on pensait de l'échelle. La majorité des affirmations de l'échelle n'est pas adapté à un enfant de 7 à 12 ans.</p>
     <div class = "text-center">
-        <img src = "../IMG/Questionnairerep.png" alt = "Réponse à l'extrait du questionnaire" width = "60%">
+        <img class="figure" src = "../IMG/Questionnairerep.png" alt = "Réponse à l'extrait du questionnaire" width = "60%">
     </div>
     <br>
     <h5>Figure 3. Réponse à l'extrait de la page 2 du questionnaire</h5>
@@ -34,7 +34,7 @@
     <p>Cette figure est un exemple des réponses données par les enseignants pour l'affirmation "Le produit est élégant".</p>
     <br>
     <div class = "text-center">
-        <img src = "../IMG/QuestionnairePD2.png" alt = "Réponses différentes" width = "60%">
+        <img class="figure" src = "../IMG/QuestionnairePD2.png" alt = "Réponses différentes" width = "60%">
     </div>
     <br>
     <h5>Figure 4. Réponse où les enseignants étaient en désaccord</h5>
